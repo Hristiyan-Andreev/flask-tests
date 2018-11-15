@@ -1,0 +1,1 @@
+Transmitting forms data to/from Flask trhough AJAX
